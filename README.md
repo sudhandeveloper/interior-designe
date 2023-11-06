@@ -1,5 +1,8 @@
 # Interior Design Project
 
+this is my webite feel free to check it out 
+{ https://indecore-interior.netlify.app }  
+
 ## Technologies Used
 - HTML
 - CSS
@@ -12,6 +15,8 @@
 
 ## Project Description
 This interior design project is a web application built using a stack of technologies to provide an immersive and interactive experience for users. It showcases a wide range of design concepts and allows users to explore and get inspiration for their interior spaces.
+
+
 
 
 
